@@ -31,7 +31,7 @@ It wasn't all smooth sailing, though. 🌊 Some parts of the learner's resources
  - I'm planning to make video demos 📽️ to showcase the cool stuff I've learned. If you're also on this learning path and feeling a bit stuck, don't worry—I've got your back!
  - We'll figure it out together. 💪 That's all for now, but stay tuned for more updates! 🌟
      
-  **And yes, ChatGPT had a hand in crafting this cool README code! 💻**
+  **And yes, ChatGPT had a hand in crafting this cool readme code! 💻**
   
 
 
