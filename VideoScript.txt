@@ -1,0 +1,8 @@
+I want to say something. Originally this file was supposed to contain the scripts for my
+beginner friendly tutorials for my fellow learners in the BackEnd course
+Right now I am not in a good mood. The first video was supposed to be on the command line in windows
+However week two already has lessons on that so I don;'t know whether to discard my original plans
+but I also want to document my understandind of these concepts so I will do the videos anyways
+it is my lunch break now I have to go. 
+Oh and yeah I am editing this from Alx ubuntu sandbox. I have cloned my git repository and workin on it kuraa 
+it is fun like lot and lots of fun. Okay bye.
